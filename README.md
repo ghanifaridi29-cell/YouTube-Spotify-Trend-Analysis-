@@ -4,6 +4,12 @@
 
 The "YouTube and Spotify Data Analysis" project is an exploration of user behavior and trends on two of the most popular streaming platforms: YouTube and Spotify. By leveraging data from these platforms, this analysis aims to uncover valuable insights into user preferences, content trends, and engagement patterns.
 
+👥 Team Members 
+
+  * MOHAMMAD GHANI FARIDI 
+  * JAWWAD ALI
+  * KHAN AURANGZEB 
+
 # Technologies Used
 
   * Python: Python was used for data preprocessing, analysis, and visualization. Libraries such as Pandas, NumPy, and Matplotlib were utilized for these tasks.
