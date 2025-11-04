@@ -6,7 +6,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
 
 # 👥 Team Members 
 
-  #MOHAMMAD GHANI FARIDI 
+  * MOHAMMAD GHANI FARIDI 
   * JAWWAD ALI
   * KHAN AURANGZEB 
 
