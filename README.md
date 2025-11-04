@@ -49,7 +49,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
  * Cleaned DataBase : This folder contains the cleaned data which we use for this Performing SQL Work.
 
 
-# SQL WORKS (Some of Sql Queries) --
+# 🛠️SQL WORKS (Some of Sql Queries) --
 
   1. list of unique Artist list 
   
@@ -142,7 +142,7 @@ as 'Average Time Duration'
 from Spotify_Youtube```
 
 
-# Creating Visualizations
+# 📊Creating Visualizations
 
 # Tableau DashBoard :
   
