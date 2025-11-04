@@ -4,7 +4,7 @@
 
 The "YouTube and Spotify Data Analysis" project is an exploration of user behavior and trends on two of the most popular streaming platforms: YouTube and Spotify. By leveraging data from these platforms, this analysis aims to uncover valuable insights into user preferences, content trends, and engagement patterns.
 
-# 👥 Team Members 
+# 👥 THE SOLO SOULS
 
   * MOHAMMAD GHANI FARIDI 
   * JAWWAD ALI
