@@ -10,7 +10,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
   * JAWWAD ALI
   * KHAN AURANGZEB 
 
-# Technologies Used
+# 🧑‍💻Technologies Used
 
   * Python: Python was used for data preprocessing, analysis, and visualization. Libraries such as Pandas, NumPy, and Matplotlib were utilized for these tasks.
 
@@ -24,7 +24,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
 
     
 
-# Project Highlights
+# 📌Project Highlights
 
  * Data Preparation: Describe any significant data preprocessing steps, such as data cleaning, transformation, or feature engineering.
  
@@ -34,7 +34,7 @@ The "YouTube and Spotify Data Analysis" project is an exploration of user behavi
 
  * Insights: Summarize the key insights or findings derived from the analysis.
 
-# Folder Structure
+# 🗂️Folder Structure
 
  * DataBase : This folder contain the Youtube and Spotify Data.
 
